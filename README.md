@@ -2,7 +2,8 @@
 A responsive React app that fetches and displays Star Wars characters using the SWAPI API. Includes character details, pagination, dynamic images, and modal views — built with React, JavaScript, and CSS.
 
 --Tech Stack --
-  HTML5
+
+- HTML5
 - CSS3
 - JavaScript (ES6+)
 - React (hooks, functional components)
