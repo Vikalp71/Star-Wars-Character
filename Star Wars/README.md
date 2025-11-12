@@ -24,27 +24,6 @@ A responsive React app that fetches and displays Star Wars characters using the 
 
 7- Clean UI built using pure CSS
 
-
-
---Folder Structure--
-
-StarWarsCharacterApp/
-│
-├─ .gitignore
-├─ package.json
-├─ README.md
-├─ main.jsx
-│
-└─ src/
-├─ App.jsx
-├─ App.css
-└─ components/
-└─ starwars/
-├─ api.jsx
-├─ CharacterList.jsx
-├─ CharacterCard.jsx
-└─ CharacterModal.jsx 
-
 --Getting Started--
 
 1-Clone the repository.
