@@ -29,16 +29,13 @@ A responsive React app that fetches and displays Star Wars characters using the 
 --Folder Structure--
 
 StarWarsCharacterApp/
-
 │
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
-└─ main.js
-
+└─ main.jsx
 │
 └─ src/
-
    ├─ App.jsx
    ├─ App.css
    └─ components/
