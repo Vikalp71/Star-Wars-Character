@@ -33,17 +33,17 @@ StarWarsCharacterApp/
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
-└─ main.jsx
+├─ main.jsx
 │
 └─ src/
-   ├─ App.jsx
-   ├─ App.css
-   └─ components/
-      └─ starwars/
-         ├─ api.jsx
-         ├─ CharacterList.jsx
-         ├─ CharacterCard.jsx
-         └─ CharacterModal.jsx
+├─ App.jsx
+├─ App.css
+└─ components/
+└─ starwars/
+├─ api.jsx
+├─ CharacterList.jsx
+├─ CharacterCard.jsx
+└─ CharacterModal.jsx 
 
 --Getting Started--
 
